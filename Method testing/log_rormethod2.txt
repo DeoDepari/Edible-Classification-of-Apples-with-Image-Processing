@@ -1,0 +1,2800 @@
+-----------
+Radius= 26
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 27
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 28
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 29
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 30
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 31
+Neighbors Check= 1
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 32
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 33
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 34
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 35
+Neighbors Check= 1
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 36
+Neighbors Check= 1
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 1
+Res= [1. 2. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 38
+Neighbors Check= 1
+Res= [1. 2. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 39
+Neighbors Check= 1
+Res= [1. 2. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 40
+Neighbors Check= 1
+Res= [1. 2. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 41
+Neighbors Check= 1
+Res= [1. 2. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 42
+Neighbors Check= 1
+Res= [1. 2. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 43
+Neighbors Check= 1
+Res= [1. 2. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 1
+Res= [2. 2. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 1
+Res= [2. 2. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 46
+Neighbors Check= 1
+Res= [2. 2. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 47
+Neighbors Check= 1
+Res= [2. 2. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 48
+Neighbors Check= 1
+Res= [2. 2. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 49
+Neighbors Check= 1
+Res= [2. 2. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 50
+Neighbors Check= 1
+Res= [2. 2. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 26
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 27
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 28
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 29
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 30
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 31
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 32
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 33
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 34
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 35
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 36
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 38
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 39
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 40
+Neighbors Check= 2
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 41
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 42
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 43
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 46
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 47
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 48
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 49
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 50
+Neighbors Check= 2
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 26
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.7
+-----------
+-----------
+Radius= 27
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.65
+-----------
+-----------
+Radius= 28
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.65
+-----------
+-----------
+Radius= 29
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.65
+-----------
+-----------
+Radius= 30
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 31
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 32
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 33
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 34
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 35
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 36
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 37
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 38
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 39
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 40
+Neighbors Check= 3
+Res= [1. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 41
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 42
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 43
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 44
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 45
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 46
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 47
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 48
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 49
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 50
+Neighbors Check= 3
+Res= [2. 1. 1. 3.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 26
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 27
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 28
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 29
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 30
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 31
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 32
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 33
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 34
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 35
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 36
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 37
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 38
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 39
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 40
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 41
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 42
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 43
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 44
+Neighbors Check= 4
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 45
+Neighbors Check= 4
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 46
+Neighbors Check= 4
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 47
+Neighbors Check= 4
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 48
+Neighbors Check= 4
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 49
+Neighbors Check= 4
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 50
+Neighbors Check= 4
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 26
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 27
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 28
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 29
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 30
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 31
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 32
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 33
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 34
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 35
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 36
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 37
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 38
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 39
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 40
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 41
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 42
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 43
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 44
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 45
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 46
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 47
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 48
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 49
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 50
+Neighbors Check= 5
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 26
+Neighbors Check= 6
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 27
+Neighbors Check= 6
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 28
+Neighbors Check= 6
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 29
+Neighbors Check= 6
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 30
+Neighbors Check= 6
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 31
+Neighbors Check= 6
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 32
+Neighbors Check= 6
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 33
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 34
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 35
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 36
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 37
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 38
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 39
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 40
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 41
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.6
+-----------
+-----------
+Radius= 42
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 43
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 44
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 45
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 46
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 47
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 48
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 49
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 50
+Neighbors Check= 6
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.55
+-----------
+-----------
+Radius= 26
+Neighbors Check= 7
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 27
+Neighbors Check= 7
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 28
+Neighbors Check= 7
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 29
+Neighbors Check= 7
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 30
+Neighbors Check= 7
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 31
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 32
+Neighbors Check= 7
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 33
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 34
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 35
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 36
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 37
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 38
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 39
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 40
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 41
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 42
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 43
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 44
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 45
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 46
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 47
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 48
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 49
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 50
+Neighbors Check= 7
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.5
+-----------
+-----------
+Radius= 26
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 27
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 28
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 29
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 30
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 31
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 32
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 33
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 34
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 35
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 36
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 38
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 39
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 40
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 41
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 42
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 43
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 46
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 47
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 48
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 49
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 50
+Neighbors Check= 8
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 26
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 27
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 28
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 29
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 30
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 31
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 32
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 33
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 34
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 35
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 36
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 37
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 38
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 39
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 40
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 41
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 42
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 43
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 44
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 45
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 46
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 47
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 48
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 49
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 50
+Neighbors Check= 9
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 26
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 27
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 28
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 29
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 30
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 31
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 32
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 33
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 34
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 35
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 36
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 37
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 38
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 39
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 40
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 41
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 42
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 43
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 44
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 45
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 46
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 47
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 48
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 49
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 50
+Neighbors Check= 10
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.4
+-----------
+-----------
+Radius= 26
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 27
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 28
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 29
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 30
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 31
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 32
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 33
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 34
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 35
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 36
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 38
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 39
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 40
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 41
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 42
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 43
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 46
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 47
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 48
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 49
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 50
+Neighbors Check= 11
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 26
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 27
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 28
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 29
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 30
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 31
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 32
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 33
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 34
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 35
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 36
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 38
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 39
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 40
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 41
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 42
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 43
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 46
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 47
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 48
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 49
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 50
+Neighbors Check= 12
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 26
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 27
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 28
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 29
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 30
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 31
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 32
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 33
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 34
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 35
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 36
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 38
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 39
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 40
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 41
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 42
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 43
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 46
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 47
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 48
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 49
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 50
+Neighbors Check= 13
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 26
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 27
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 28
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 29
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 30
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 31
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 32
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 33
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 34
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 35
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 36
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 38
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 39
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 40
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 41
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 42
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 43
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 46
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 47
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 48
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 49
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 50
+Neighbors Check= 14
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 26
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 27
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 28
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 29
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 30
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 31
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 32
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 33
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 34
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 35
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 36
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 38
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 39
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 40
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 41
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 42
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 43
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 46
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 47
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 48
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 49
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 50
+Neighbors Check= 15
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 26
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 27
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 28
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 29
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 30
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 31
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 32
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 33
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 34
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 35
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 36
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 37
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 38
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 39
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 40
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 41
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 42
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 43
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 44
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 45
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 46
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 47
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 48
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 49
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------
+-----------
+Radius= 50
+Neighbors Check= 16
+Res= [1. 1. 1. 1.]
+KFOLD= 5
+Score= 0.45
+-----------

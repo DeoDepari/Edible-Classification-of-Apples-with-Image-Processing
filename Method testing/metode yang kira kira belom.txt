@@ -1,0 +1,10 @@
+Yang perlu dicoba
+
+Decision Tree, DONE
+hierarchial clustering
+
+knn dengan holdout estimation evaluasi
+
+buat evaluasi
+Cross validation
+Holdout Estimation

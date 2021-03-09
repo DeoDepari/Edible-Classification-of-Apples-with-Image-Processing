@@ -1,0 +1,36 @@
+-----------
+Radius= 26
+Neighbors Check= 1
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.35
+-----------
+-----------
+Radius= 27
+Neighbors Check= 1
+Res= [2. 1. 1. 1.]
+KFOLD= 5
+Score= 0.35
+-----------
+-----------
+Radius= 26
+Neighbors Check= 2
+Res= [1. -----------
+Radius= 25
+-----------
+Radius= 25
+Neighbors Check= 3
+-----------
+Radius= 25
+Neighbors Check= 3
+Res= [2. 2. 1. 1.]
+KFOLD= 5
+Score= 0.75
+-----------
+-----------
+Radius= 25
+Neighbors Check= 3
+Res= [1. 1. 2. 1.]
+KFOLD= 5
+Score= 0.75
+-----------
